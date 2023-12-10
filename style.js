@@ -1,7 +1,7 @@
 
 
 const buttonClass =document.querySelectorAll('button');
-console.log(buttonClass);
+// console.log(buttonClass);
 
 for (let buttonStyle of buttonClass){
 
